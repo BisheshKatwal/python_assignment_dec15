@@ -1,4 +1,4 @@
-string = "I love Python Programming Language"
+line = "I love Python Programming Language"
 start = line.index('Programming')
 length = len('Programming')
 
